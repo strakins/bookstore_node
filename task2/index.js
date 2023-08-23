@@ -34,6 +34,7 @@ booksInStore.addBook("Sarvy of Coast", "Adeagbo Rotimi", "Fiction")
 booksInStore.addBook("Lone Survival ", "Ranches Marian", "Romance")
 booksInStore.addBook("Rainy Days", "Adeagbo Rotimi", "Thriller");
 
+// Testing the books in store
 console.log("All Books: \n");
 for (const book of booksInStore) {
     console.log(book.title);
