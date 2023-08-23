@@ -7,7 +7,7 @@
 
 ## Getting Started
 
- - Clone the [Repo Here](https://github.com/strakins/strakins_node)
+ - Clone the [Repo Here](https://github.com/strakins/bookstore_node/tree/master/task2)
 
  - Navigate to the root directory  
 
@@ -22,7 +22,8 @@
 
 ## Questions Solved 
 
-``` Build a library catalog that let you add and retrieve books using different methods given the 
+``` 
+    Build a library catalog that let you add and retrieve books using different methods given the 
     following steps: 
 
     1. create a `Book` constructor function with properties `title`, `author`, and `genre` 
